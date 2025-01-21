@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-openai
+chromadb
+athina
+datasets
+pandas
+tiktoken
